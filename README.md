@@ -18,7 +18,7 @@ This project is a note-taking application developed using Java Swing libraries. 
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/note-taking-application.git
+    git clone https://github.com/theventurer/notetakingapp.git
     ```
 
 2. Open the project in your preferred Java IDE.
